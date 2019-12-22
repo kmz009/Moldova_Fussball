@@ -80,7 +80,7 @@ footer {
 }
 @media screen and (min-width: 320px) and (max-width: 480px){
     #anunt {
-        background-color: red;
+      
     }
 
 }
@@ -93,7 +93,7 @@ footer {
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     #anunt {
-        background-color: blue;
+       
     }
     #anunt {
         line-height: 23px;
@@ -103,7 +103,7 @@ footer {
 @media screen and (min-width: 1025px) {
 
     #anunt {
-        background-color: yellowgreen;
+      
         line-height: 23px;
     }
 
